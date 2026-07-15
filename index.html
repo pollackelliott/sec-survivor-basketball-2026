@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SEC Basketball Survivor 2026</title>
+  <style>
+    :root { --bg:#f7f7f4; --card:#fff; --ink:#1f2937; --muted:#6b7280; --line:#e5e7eb; --green:#166534; --yellow:#92400e; --red:#991b1b; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--ink); }
+    header { padding:24px 16px 14px; text-align:center; }
+    h1 { margin:0; font-size:28px; }
+    .sub { color:var(--muted); margin-top:6px; }
+    .wrap { max-width:1100px; margin:0 auto; padding:0 14px 40px; }
+    .controls { display:flex; align-items:center; justify-content:center; gap:14px; margin:12px 0 20px; }
+    button { border:1px solid var(--line); background:#fff; border-radius:999px; padding:10px 14px; font-weight:700; cursor:pointer; }
+    button:disabled { opacity:.4; cursor:not-allowed; }
+    .week-title { min-width:110px; text-align:center; font-weight:800; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:12px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px; box-shadow:0 1px 2px rgba(0,0,0,.04); }
+    .kpis { display:grid; grid-template-columns: repeat(3, 1fr); gap:10px; margin-bottom:12px; }
+    .kpi { text-align:center; }
+    .kpi b { display:block; font-size:28px; }
+    h2 { margin:0 0 10px; font-size:18px; }
+    h3 { margin:0 0 8px; font-size:15px; }
+    .story ul { margin:8px 0 0; padding-left:20px; }
+    table { width:100%; border-collapse:collapse; font-size:14px; }
+    th,td { padding:8px 6px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
+    th { color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.04em; }
+    .safe { color:var(--green); font-weight:800; }
+    .strike { color:var(--yellow); font-weight:800; }
+    .out,.eliminated,.ineligible,.invalid,.no-pick { color:var(--red); font-weight:800; }
+    .muted { color:var(--muted); }
+    .pill { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:2px 8px; font-size:12px; margin:1px; background:#fff; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SEC Basketball Survivor 2026</h1>
+    <div class="sub">2025-26 conference season retrospective time machine</div>
+  </header>
+
+  <main class="wrap">
+    <div class="controls">
+      <button id="prev">◀ Previous Week</button>
+      <div class="week-title" id="weekTitle">Week 1</div>
+      <button id="next">Next Week ▶</button>
+    </div>
+
+    <section class="card kpis" id="kpis"></section>
+
+    <div class="grid">
+      <section class="card story" id="story"></section>
+      <section class="card" id="mostPicked"></section>
+    </div>
+
+    <section class="card" style="margin-top:12px;">
+      <h2>Standings</h2>
+      <div id="standings"></div>
+    </section>
+  </main>
+
+  <script src="engine.js"></script>
+  <script>
+    let currentWeek = 1;
+    let data = {};
+
+    async function loadData() {
+      const [players, picks, schedule, results, weeks] = await Promise.all([
+        fetch('data/players.json').then(r=>r.json()),
+        fetch('data/picks.json').then(r=>r.json()),
+        fetch('data/schedule.json').then(r=>r.json()),
+        fetch('data/results.json').then(r=>r.json()),
+        fetch('data/weeks.json').then(r=>r.json())
+      ]);
+      data = { players, picks, schedule, results, weeks };
+      render();
+    }
+
+    function render() {
+      const maxWeek = data.weeks.length;
+      currentWeek = Math.max(1, Math.min(maxWeek, currentWeek));
+      document.getElementById('weekTitle').textContent = `Week ${currentWeek}`;
+      document.getElementById('prev').disabled = currentWeek === 1;
+      document.getElementById('next').disabled = currentWeek === maxWeek;
+
+      const sim = simulateThroughWeek({ ...data, throughWeek: currentWeek });
+      const story = sim.weeklyStories[sim.weeklyStories.length - 1];
+      const alive = sim.players.filter(p => p.alive).length;
+      const out = sim.players.length - alive;
+      const strikes = sim.players.reduce((sum,p)=>sum+p.strikes,0);
+
+      document.getElementById('kpis').innerHTML = `
+        <div class="kpi"><b>${alive}</b><span>Alive</span></div>
+        <div class="kpi"><b>${out}</b><span>Out</span></div>
+        <div class="kpi"><b>${strikes}</b><span>Total Strikes</span></div>`;
+
+      document.getElementById('story').innerHTML = `
+        <h2>Weekly Story</h2>
+        <p><b>Week ${currentWeek}</b> began with ${story.aliveStart} alive and ended with ${story.aliveEnd} alive.</p>
+        <ul>
+          <li>${story.newStrikes.length} player(s) picked up a strike.</li>
+          <li>${story.eliminated.length} player(s) were eliminated.</li>
+        </ul>`;
+
+      document.getElementById('mostPicked').innerHTML = `
+        <h2>Most Picked</h2>
+        ${story.mostPicked.length ? story.mostPicked.map(x=>`<span class="pill">${x.team}: ${x.count}</span>`).join('') : '<p class="muted">No picks yet.</p>'}`;
+
+      const rows = sim.players
+        .sort((a,b)=> Number(b.alive)-Number(a.alive) || a.strikes-b.strikes || a.name.localeCompare(b.name))
+        .map(p => {
+          const h = p.history[p.history.length-1] || {};
+          const status = p.alive ? (p.strikes ? `${p.strikes} strike${p.strikes===1?'':'s'}` : 'Safe') : `Out${p.eliminatedWeek ? ` W${p.eliminatedWeek}` : ''}`;
+          return `<tr>
+            <td><b>${p.name}</b></td>
+            <td class="${p.alive ? (p.strikes ? 'strike':'safe') : 'out'}">${status}</td>
+            <td>${h.pick || '<span class="muted">—</span>'}</td>
+            <td class="${h.outcome || ''}">${h.outcome || ''}</td>
+            <td>${p.usedTeams.map(t=>`<span class="pill">${t}</span>`).join('')}</td>
+          </tr>`;
+        }).join('');
+      document.getElementById('standings').innerHTML = `<table><thead><tr><th>Player</th><th>Status</th><th>This Week</th><th>Outcome</th><th>Used Teams</th></tr></thead><tbody>${rows}</tbody></table>`;
+    }
+
+    document.getElementById('prev').addEventListener('click', () => { currentWeek--; render(); });
+    document.getElementById('next').addEventListener('click', () => { currentWeek++; render(); });
+    loadData();
+  </script>
+</body>
+</html>

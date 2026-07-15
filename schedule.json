@@ -1,0 +1,2562 @@
+[
+  {
+    "team": "Alabama",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Kentucky",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Tennessee",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Georgia",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Missouri",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Auburn",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Alabama",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Texas A&M",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Texas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Florida",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Oklahoma",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Ole Miss",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Arkansas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "Mississippi State",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "LSU",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 1,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-03",
+        "opponent": "South Carolina",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Texas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Ole Miss",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Auburn",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Texas A&M",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Arkansas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Georgia",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Tennessee",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Florida",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "South Carolina",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Missouri",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Mississippi State",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "South Carolina",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Oklahoma",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Kentucky",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Kentucky",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Ole Miss",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Missouri",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Mississippi State",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Texas A&M",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "LSU",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Georgia",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Texas",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Florida",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Tennessee",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Alabama",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Auburn",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "Oklahoma",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 2,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-06",
+        "opponent": "Alabama",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-10",
+        "opponent": "LSU",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Mississippi State",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Oklahoma",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "South Carolina",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Georgia",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Missouri",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "South Carolina",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Oklahoma",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Ole Miss",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Arkansas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "LSU",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Tennessee",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Missouri",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Alabama",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Ole Miss",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Auburn",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "LSU",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Georgia",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Mississippi State",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Florida",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Alabama",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Arkansas",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Auburn",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Texas A&M",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Kentucky",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Texas A&M",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Tennessee",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Texas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 3,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-13",
+        "opponent": "Texas",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-17",
+        "opponent": "Florida",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 4,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-01-24",
+        "opponent": "Tennessee",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "LSU",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Ole Miss",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Florida",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "LSU",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Auburn",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Missouri",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Texas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Texas",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Ole Miss",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Florida",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Arkansas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Texas A&M",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Georgia",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Oklahoma",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Auburn",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Kentucky",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "South Carolina",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Missouri",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Oklahoma",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Texas A&M",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 4,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-01-24",
+        "opponent": "Alabama",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Kentucky",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Georgia",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Mississippi State",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "South Carolina",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 4,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-20",
+        "opponent": "Arkansas",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-24",
+        "opponent": "Mississippi State",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Missouri",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Florida",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Oklahoma",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Kentucky",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Texas",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Tennessee",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "South Carolina",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Alabama",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Tennessee",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Texas A&M",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Arkansas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Mississippi State",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "South Carolina",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "LSU",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Missouri",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Alabama",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Mississippi State",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 5,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Texas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Florida",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "LSU",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Georgia",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Auburn",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Auburn",
+        "location": "away"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Oklahoma",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 5,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Georgia",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 5,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-01-27",
+        "opponent": "Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "2026-01-31",
+        "opponent": "Ole Miss",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "Texas A&M",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Auburn",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Mississippi State",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Alabama",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Texas A&M",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "LSU",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "Oklahoma",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Tennessee",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Georgia",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Arkansas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "South Carolina",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "Tennessee",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Texas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "Kentucky",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "Texas",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Missouri",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "Ole Miss",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Kentucky",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "South Carolina",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Ole Miss",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 6,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-03",
+        "opponent": "Alabama",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-07",
+        "opponent": "Florida",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 6,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Oklahoma",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Ole Miss",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "South Carolina",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "LSU",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Auburn",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Arkansas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Georgia",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Kentucky",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Florida",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Oklahoma",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 7,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-14",
+        "opponent": "Florida",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Tennessee",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Tennessee",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Ole Miss",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Texas A&M",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Texas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Alabama",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Mississippi State",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 7,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-14",
+        "opponent": "Georgia",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 7,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-14",
+        "opponent": "Alabama",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Mississippi State",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "LSU",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 7,
+    "eligible": false,
+    "games": [
+      {
+        "date": "2026-02-14",
+        "opponent": "Missouri",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Missouri",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 7,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-10",
+        "opponent": "Auburn",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-14",
+        "opponent": "Texas A&M",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Arkansas",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "LSU",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Alabama",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Missouri",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Mississippi State",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Kentucky",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "South Carolina",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Ole Miss",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Kentucky",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Texas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Georgia",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Auburn",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Texas",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Alabama",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Auburn",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "South Carolina",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Arkansas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Texas A&M",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Florida",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Tennessee",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Texas A&M",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Florida",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Mississippi State",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Oklahoma",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "LSU",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Georgia",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Ole Miss",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Oklahoma",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 8,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-17",
+        "opponent": "Missouri",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-21",
+        "opponent": "Tennessee",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Mississippi State",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Tennessee",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Texas A&M",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Florida",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Oklahoma",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Ole Miss",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Texas",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Arkansas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "South Carolina",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "South Carolina",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Ole Miss",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Oklahoma",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Alabama",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Missouri",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Tennessee",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Mississippi State",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "LSU",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Auburn",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Auburn",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "LSU",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Georgia",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Mississippi State",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Alabama",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Florida",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Texas A&M",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Arkansas",
+        "location": "away"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Texas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 9,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-02-24",
+        "opponent": "Georgia",
+        "location": "home"
+      },
+      {
+        "date": "2026-02-28",
+        "opponent": "Kentucky",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Alabama",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Georgia",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Auburn",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Arkansas",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Texas",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Missouri",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Auburn",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "LSU",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Alabama",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Florida",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Mississippi State",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Kentucky",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Georgia",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Alabama",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Mississippi State",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Kentucky",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Texas A&M",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Florida",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "LSU",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Auburn",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Texas A&M",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Mississippi State",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Florida",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Georgia",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Missouri",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Oklahoma",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Arkansas",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Ole Miss",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Vanderbilt",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "South Carolina",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Oklahoma",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Missouri",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Texas",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "South Carolina",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Tennessee",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Ole Miss",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Tennessee",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "South Carolina",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Vanderbilt",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Arkansas",
+        "location": "away"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Oklahoma",
+        "location": "home"
+      }
+    ]
+  },
+  {
+    "team": "Texas A&M",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Kentucky",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "LSU",
+        "location": "away"
+      }
+    ]
+  },
+  {
+    "team": "Vanderbilt",
+    "week": 10,
+    "eligible": true,
+    "games": [
+      {
+        "date": "2026-03-03",
+        "opponent": "Ole Miss",
+        "location": "home"
+      },
+      {
+        "date": "2026-03-07",
+        "opponent": "Tennessee",
+        "location": "away"
+      }
+    ]
+  }
+]

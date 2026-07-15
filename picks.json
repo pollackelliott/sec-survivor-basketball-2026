@@ -1,0 +1,893 @@
+[
+  {
+    "player": "Todd Saltzberg",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 5,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 7,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 8,
+    "team": "Florida"
+  },
+  {
+    "player": "Todd Saltzberg",
+    "week": 9,
+    "team": "Missouri"
+  },
+  {
+    "player": "David Frelich",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "David Frelich",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "David Frelich",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "David Frelich",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "David Frelich",
+    "week": 5,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "David Frelich",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "David Frelich",
+    "week": 7,
+    "team": "Alabama"
+  },
+  {
+    "player": "David Frelich",
+    "week": 8,
+    "team": "Florida"
+  },
+  {
+    "player": "David Frelich",
+    "week": 9,
+    "team": "Auburn"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 2,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 5,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 7,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 8,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Paul Kessler",
+    "week": 9,
+    "team": "Auburn"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 5,
+    "team": "Florida"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 7,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 8,
+    "team": "Alabama"
+  },
+  {
+    "player": "Connor Kraus",
+    "week": 9,
+    "team": "Auburn"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 3,
+    "team": "Georgia"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 5,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 7,
+    "team": "Alabama"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 8,
+    "team": "Florida"
+  },
+  {
+    "player": "Garrett Pollack",
+    "week": 9,
+    "team": "Auburn"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 1,
+    "team": "Georgia"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 5,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 7,
+    "team": "Alabama"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 8,
+    "team": "Florida"
+  },
+  {
+    "player": "Kyle Sutton",
+    "week": 9,
+    "team": "Auburn"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 1,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 2,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 4,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 5,
+    "team": "LSU"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 7,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 8,
+    "team": "Florida"
+  },
+  {
+    "player": "Jake Weiner",
+    "week": 9,
+    "team": "Auburn"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 2,
+    "team": "Florida"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 3,
+    "team": "Georgia"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 5,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 7,
+    "team": "Alabama"
+  },
+  {
+    "player": "Susanne Bylund",
+    "week": 8,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 3,
+    "team": "Auburn"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 5,
+    "team": "Florida"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 6,
+    "team": "Texas"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 7,
+    "team": "Alabama"
+  },
+  {
+    "player": "Nathan Levy",
+    "week": 8,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Tim Cronin",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Tim Cronin",
+    "week": 2,
+    "team": "Georgia"
+  },
+  {
+    "player": "Tim Cronin",
+    "week": 3,
+    "team": "Missouri"
+  },
+  {
+    "player": "Tim Cronin",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Tim Cronin",
+    "week": 5,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Nicholas Emmick",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Nicholas Emmick",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Nicholas Emmick",
+    "week": 3,
+    "team": "Auburn"
+  },
+  {
+    "player": "Nicholas Emmick",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Nicholas Emmick",
+    "week": 5,
+    "team": "LSU"
+  },
+  {
+    "player": "Matthew Hirsh",
+    "week": 1,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Matthew Hirsh",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Matthew Hirsh",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Matthew Hirsh",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Matthew Hirsh",
+    "week": 5,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Jordan Kuehne",
+    "week": 1,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Jordan Kuehne",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Jordan Kuehne",
+    "week": 3,
+    "team": "Auburn"
+  },
+  {
+    "player": "Jordan Kuehne",
+    "week": 4,
+    "team": "Texas A&M"
+  },
+  {
+    "player": "Jordan Kuehne",
+    "week": 5,
+    "team": "LSU"
+  },
+  {
+    "player": "Tim Maghoney",
+    "week": 1,
+    "team": "Florida"
+  },
+  {
+    "player": "Tim Maghoney",
+    "week": 2,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Tim Maghoney",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Tim Maghoney",
+    "week": 4,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Tim Maghoney",
+    "week": 5,
+    "team": "Georgia"
+  },
+  {
+    "player": "Bobby Mudd",
+    "week": 1,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Bobby Mudd",
+    "week": 2,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Bobby Mudd",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Bobby Mudd",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Bobby Mudd",
+    "week": 5,
+    "team": "LSU"
+  },
+  {
+    "player": "Brad Mudd",
+    "week": 1,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Brad Mudd",
+    "week": 2,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Brad Mudd",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Brad Mudd",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Brad Mudd",
+    "week": 5,
+    "team": "LSU"
+  },
+  {
+    "player": "Tim Pugh",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Tim Pugh",
+    "week": 2,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Tim Pugh",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Tim Pugh",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Tim Pugh",
+    "week": 5,
+    "team": "LSU"
+  },
+  {
+    "player": "Michael Weaver",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Michael Weaver",
+    "week": 2,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Michael Weaver",
+    "week": 3,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Michael Weaver",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Michael Weaver",
+    "week": 5,
+    "team": "Georgia"
+  },
+  {
+    "player": "Michael Drabelle",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Michael Drabelle",
+    "week": 2,
+    "team": "Auburn"
+  },
+  {
+    "player": "Michael Drabelle",
+    "week": 3,
+    "team": "Missouri"
+  },
+  {
+    "player": "Michael Drabelle",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Aaron Drory",
+    "week": 1,
+    "team": "Georgia"
+  },
+  {
+    "player": "Aaron Drory",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Aaron Drory",
+    "week": 3,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Aaron Drory",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Jeremy Friedman",
+    "week": 1,
+    "team": "Georgia"
+  },
+  {
+    "player": "Jeremy Friedman",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Jeremy Friedman",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Jeremy Friedman",
+    "week": 4,
+    "team": "Missouri"
+  },
+  {
+    "player": "Werner Gunn",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Werner Gunn",
+    "week": 2,
+    "team": "Auburn"
+  },
+  {
+    "player": "Werner Gunn",
+    "week": 3,
+    "team": "Georgia"
+  },
+  {
+    "player": "Werner Gunn",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Jacob Steimer",
+    "week": 1,
+    "team": "LSU"
+  },
+  {
+    "player": "Jacob Steimer",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Jacob Steimer",
+    "week": 3,
+    "team": "Alabama"
+  },
+  {
+    "player": "Jacob Steimer",
+    "week": 4,
+    "team": "Florida"
+  },
+  {
+    "player": "Ivetta Abramyan",
+    "week": 1,
+    "team": "Florida"
+  },
+  {
+    "player": "Ivetta Abramyan",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Ivetta Abramyan",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Jason Balk",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "Jason Balk",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Jason Balk",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Joey Bricker",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "Joey Bricker",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Joey Bricker",
+    "week": 3,
+    "team": "Missouri"
+  },
+  {
+    "player": "TJ Doherty",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "TJ Doherty",
+    "week": 2,
+    "team": "Arkansas"
+  },
+  {
+    "player": "TJ Doherty",
+    "week": 3,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Tom Drabelle",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "Tom Drabelle",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Tom Drabelle",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Trevor Kraus",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "Trevor Kraus",
+    "week": 2,
+    "team": "Auburn"
+  },
+  {
+    "player": "Trevor Kraus",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Rocco Miller",
+    "week": 1,
+    "team": "Florida"
+  },
+  {
+    "player": "Rocco Miller",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Rocco Miller",
+    "week": 3,
+    "team": "Tennessee"
+  },
+  {
+    "player": "Jason Mudd",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "Jason Mudd",
+    "week": 2,
+    "team": "Arkansas"
+  },
+  {
+    "player": "Jason Mudd",
+    "week": 3,
+    "team": "Vanderbilt"
+  },
+  {
+    "player": "Elliott Pollack",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "Elliott Pollack",
+    "week": 2,
+    "team": "Kentucky"
+  },
+  {
+    "player": "Elliott Pollack",
+    "week": 3,
+    "team": "Georgia"
+  },
+  {
+    "player": "Sam Friedman",
+    "week": 1,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Sam Friedman",
+    "week": 2,
+    "team": "Auburn"
+  },
+  {
+    "player": "Sam Friedman",
+    "week": 3,
+    "team": null,
+    "status": "withdrawn"
+  },
+  {
+    "player": "Sam Hardiman",
+    "week": 1,
+    "team": "Texas"
+  },
+  {
+    "player": "Sam Hardiman",
+    "week": 2,
+    "team": "Oklahoma"
+  },
+  {
+    "player": "Josh Rogers",
+    "week": 1,
+    "team": "LSU"
+  },
+  {
+    "player": "Josh Rogers",
+    "week": 2,
+    "team": "Oklahoma"
+  }
+]

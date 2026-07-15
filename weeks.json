@@ -1,0 +1,101 @@
+[
+  {
+    "week": 1,
+    "label": "Week 1",
+    "dates": [
+      "2026-01-03"
+    ],
+    "isOpeningSaturday": true,
+    "description": "Opening Saturday only; every pick receives a ghost midweek win."
+  },
+  {
+    "week": 2,
+    "label": "Week 2",
+    "dates": [
+      "2026-01-06",
+      "2026-01-10"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 3,
+    "label": "Week 3",
+    "dates": [
+      "2026-01-13",
+      "2026-01-17"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 4,
+    "label": "Week 4",
+    "dates": [
+      "2026-01-20",
+      "2026-01-24"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 5,
+    "label": "Week 5",
+    "dates": [
+      "2026-01-27",
+      "2026-01-31"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 6,
+    "label": "Week 6",
+    "dates": [
+      "2026-02-03",
+      "2026-02-07"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 7,
+    "label": "Week 7",
+    "dates": [
+      "2026-02-10",
+      "2026-02-14"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 8,
+    "label": "Week 8",
+    "dates": [
+      "2026-02-17",
+      "2026-02-21"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 9,
+    "label": "Week 9",
+    "dates": [
+      "2026-02-24",
+      "2026-02-28"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  },
+  {
+    "week": 10,
+    "label": "Week 10",
+    "dates": [
+      "2026-03-03",
+      "2026-03-07"
+    ],
+    "isOpeningSaturday": false,
+    "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
+  }
+]

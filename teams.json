@@ -1,0 +1,66 @@
+[
+  {
+    "id": "alabama",
+    "name": "Alabama"
+  },
+  {
+    "id": "arkansas",
+    "name": "Arkansas"
+  },
+  {
+    "id": "auburn",
+    "name": "Auburn"
+  },
+  {
+    "id": "florida",
+    "name": "Florida"
+  },
+  {
+    "id": "georgia",
+    "name": "Georgia"
+  },
+  {
+    "id": "kentucky",
+    "name": "Kentucky"
+  },
+  {
+    "id": "lsu",
+    "name": "LSU"
+  },
+  {
+    "id": "mississippi-state",
+    "name": "Mississippi State"
+  },
+  {
+    "id": "missouri",
+    "name": "Missouri"
+  },
+  {
+    "id": "ole-miss",
+    "name": "Ole Miss"
+  },
+  {
+    "id": "oklahoma",
+    "name": "Oklahoma"
+  },
+  {
+    "id": "south-carolina",
+    "name": "South Carolina"
+  },
+  {
+    "id": "tennessee",
+    "name": "Tennessee"
+  },
+  {
+    "id": "texas",
+    "name": "Texas"
+  },
+  {
+    "id": "texas-a-m",
+    "name": "Texas A&M"
+  },
+  {
+    "id": "vanderbilt",
+    "name": "Vanderbilt"
+  }
+]
