@@ -1,142 +1,177 @@
 [
   {
     "id": "todd-saltzberg",
-    "name": "Todd Saltzberg"
+    "name": "Todd Saltzberg",
+    "fanOf": null
   },
   {
     "id": "david-frelich",
-    "name": "David Frelich"
+    "name": "David Frelich",
+    "fanOf": "Missouri"
   },
   {
     "id": "paul-kessler",
-    "name": "Paul Kessler"
+    "name": "Paul Kessler",
+    "fanOf": "Missouri"
   },
   {
     "id": "connor-kraus",
-    "name": "Connor Kraus"
+    "name": "Connor Kraus",
+    "fanOf": "Missouri"
   },
   {
     "id": "garrett-pollack",
-    "name": "Garrett Pollack"
+    "name": "Garrett Pollack",
+    "fanOf": "Missouri"
   },
   {
     "id": "kyle-sutton",
-    "name": "Kyle Sutton"
+    "name": "Kyle Sutton",
+    "fanOf": "Missouri"
   },
   {
     "id": "jake-weiner",
-    "name": "Jake Weiner"
+    "name": "Jake Weiner",
+    "fanOf": "Vanderbilt"
   },
   {
     "id": "susanne-bylund",
-    "name": "Susanne Bylund"
+    "name": "Susanne Bylund",
+    "fanOf": "Missouri"
   },
   {
     "id": "nathan-levy",
-    "name": "Nathan Levy"
+    "name": "Nathan Levy",
+    "fanOf": null
   },
   {
     "id": "tim-cronin",
-    "name": "Tim Cronin"
+    "name": "Tim Cronin",
+    "fanOf": null
   },
   {
     "id": "nicholas-emmick",
-    "name": "Nicholas Emmick"
+    "name": "Nicholas Emmick",
+    "fanOf": "Kentucky"
   },
   {
     "id": "matthew-hirsh",
-    "name": "Matthew Hirsh"
+    "name": "Matthew Hirsh",
+    "fanOf": "Missouri"
   },
   {
     "id": "jordan-kuehne",
-    "name": "Jordan Kuehne"
+    "name": "Jordan Kuehne",
+    "fanOf": "Missouri"
   },
   {
     "id": "tim-maghoney",
-    "name": "Tim Maghoney"
+    "name": "Tim Maghoney",
+    "fanOf": "Missouri"
   },
   {
     "id": "bobby-mudd",
-    "name": "Bobby Mudd"
+    "name": "Bobby Mudd",
+    "fanOf": "Missouri"
   },
   {
     "id": "brad-mudd",
-    "name": "Brad Mudd"
+    "name": "Brad Mudd",
+    "fanOf": "Vanderbilt"
   },
   {
     "id": "tim-pugh",
-    "name": "Tim Pugh"
+    "name": "Tim Pugh",
+    "fanOf": "Florida"
   },
   {
     "id": "michael-weaver",
-    "name": "Michael Weaver"
+    "name": "Michael Weaver",
+    "fanOf": "Missouri"
   },
   {
     "id": "michael-drabelle",
-    "name": "Michael Drabelle"
+    "name": "Michael Drabelle",
+    "fanOf": "Missouri"
   },
   {
     "id": "aaron-drory",
-    "name": "Aaron Drory"
+    "name": "Aaron Drory",
+    "fanOf": "Alabama"
   },
   {
     "id": "jeremy-friedman",
-    "name": "Jeremy Friedman"
+    "name": "Jeremy Friedman",
+    "fanOf": "Missouri"
   },
   {
     "id": "werner-gunn",
-    "name": "Werner Gunn"
+    "name": "Werner Gunn",
+    "fanOf": "Missouri"
   },
   {
     "id": "jacob-steimer",
-    "name": "Jacob Steimer"
+    "name": "Jacob Steimer",
+    "fanOf": "Missouri"
   },
   {
     "id": "ivetta-abramyan",
-    "name": "Ivetta Abramyan"
+    "name": "Ivetta Abramyan",
+    "fanOf": "South Carolina"
   },
   {
     "id": "jason-balk",
-    "name": "Jason Balk"
+    "name": "Jason Balk",
+    "fanOf": "Missouri"
   },
   {
     "id": "joey-bricker",
-    "name": "Joey Bricker"
+    "name": "Joey Bricker",
+    "fanOf": "Missouri"
   },
   {
     "id": "tj-doherty",
-    "name": "TJ Doherty"
+    "name": "TJ Doherty",
+    "fanOf": "Ole Miss"
   },
   {
     "id": "tom-drabelle",
-    "name": "Tom Drabelle"
+    "name": "Tom Drabelle",
+    "fanOf": "Missouri"
   },
   {
     "id": "trevor-kraus",
-    "name": "Trevor Kraus"
+    "name": "Trevor Kraus",
+    "fanOf": "Missouri"
   },
   {
     "id": "rocco-miller",
-    "name": "Rocco Miller"
+    "name": "Rocco Miller",
+    "fanOf": null
   },
   {
     "id": "jason-mudd",
-    "name": "Jason Mudd"
+    "name": "Jason Mudd",
+    "fanOf": "Missouri"
   },
   {
     "id": "elliott-pollack",
-    "name": "Elliott Pollack"
+    "name": "Elliott Pollack",
+    "fanOf": "Missouri"
   },
   {
     "id": "sam-friedman",
-    "name": "Sam Friedman"
+    "name": "Sam Friedman",
+    "fanOf": "Missouri"
   },
   {
     "id": "sam-hardiman",
-    "name": "Sam Hardiman"
+    "name": "Sam Hardiman",
+    "fanOf": "Missouri"
   },
   {
     "id": "josh-rogers",
-    "name": "Josh Rogers"
+    "name": "Josh Rogers",
+    "fanOf": "LSU"
   }
 ]
