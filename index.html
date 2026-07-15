@@ -1,137 +1,60 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>SEC Basketball Survivor 2026</title>
-  <style>
-    :root { --bg:#f7f7f4; --card:#fff; --ink:#1f2937; --muted:#6b7280; --line:#e5e7eb; --green:#166534; --yellow:#92400e; --red:#991b1b; }
-    * { box-sizing:border-box; }
-    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--ink); }
-    header { padding:24px 16px 14px; text-align:center; }
-    h1 { margin:0; font-size:28px; }
-    .sub { color:var(--muted); margin-top:6px; }
-    .wrap { max-width:1100px; margin:0 auto; padding:0 14px 40px; }
-    .controls { display:flex; align-items:center; justify-content:center; gap:14px; margin:12px 0 20px; }
-    button { border:1px solid var(--line); background:#fff; border-radius:999px; padding:10px 14px; font-weight:700; cursor:pointer; }
-    button:disabled { opacity:.4; cursor:not-allowed; }
-    .week-title { min-width:110px; text-align:center; font-weight:800; }
-    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:12px; }
-    .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px; box-shadow:0 1px 2px rgba(0,0,0,.04); }
-    .kpis { display:grid; grid-template-columns: repeat(3, 1fr); gap:10px; margin-bottom:12px; }
-    .kpi { text-align:center; }
-    .kpi b { display:block; font-size:28px; }
-    h2 { margin:0 0 10px; font-size:18px; }
-    h3 { margin:0 0 8px; font-size:15px; }
-    .story ul { margin:8px 0 0; padding-left:20px; }
-    .name-list { display:flex; flex-wrap:wrap; gap:4px; margin-top:6px; }
-    .tiny { font-size:12px; color:var(--muted); }
-    table { width:100%; border-collapse:collapse; font-size:14px; }
-    th,td { padding:8px 6px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
-    th { color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.04em; }
-    .safe { color:var(--green); font-weight:800; }
-    .strike { color:var(--yellow); font-weight:800; }
-    .out,.eliminated,.ineligible,.invalid,.no-pick { color:var(--red); font-weight:800; }
-    .muted { color:var(--muted); }
-    .pill { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:2px 8px; font-size:12px; margin:1px; background:#fff; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
+<title>SEC Survivor — Basketball 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0A1B3D;--bg-2:#071433;--panel:#122A5C;--panel-2:#193569;--hair:#26417E;--text:#F5F7FB;--text-dim:#AEBBDE;--text-faint:#6C7EAE;--gold:#F2C230;--gold-dim:#4A3E17;--red:#E2685C;--red-dim:#3A1F26;--green:#5FBE8C;--green-dim:#123624;--radius:14px;--body:'Raleway',-apple-system,BlinkMacSystemFont,sans-serif}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}html,body{margin:0;padding:0}body{background:var(--bg);color:var(--text);font-family:var(--body);min-height:100vh;padding-bottom:24px;font-variant-numeric:tabular-nums}html.lock-scroll,body.lock-scroll{overflow:hidden;height:100%;overscroll-behavior:none}body:before{content:'';position:fixed;inset:0;background:radial-gradient(ellipse 900px 500px at 50% -10%,rgba(242,194,48,.08),transparent 60%),repeating-linear-gradient(180deg,rgba(255,255,255,.012) 0,rgba(255,255,255,.012) 1px,transparent 1px,transparent 3px);pointer-events:none;z-index:0}.wrap{position:relative;z-index:1;max-width:760px;margin:0 auto}
+header{padding:16px 18px;display:flex;align-items:center;justify-content:space-between;gap:12px;border-bottom:1px solid var(--hair);background:linear-gradient(180deg,var(--bg-2),var(--bg) 90%)}.h-title{font-weight:800;font-size:16px;line-height:1.25;text-transform:uppercase;letter-spacing:.02em}.h-title small{display:block;font-size:11px;font-weight:700;color:var(--text-faint);letter-spacing:.1em}.h-tally{display:flex;align-items:baseline;gap:6px}.h-tally .num{font-weight:900;font-size:32px;color:var(--gold);text-shadow:0 0 18px rgba(242,194,48,.35)}.h-tally .of{font-size:13px;font-weight:700;color:var(--text-dim)}.h-tally-label{font-size:9.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--text-faint);text-align:right}
+.tabs{display:flex;gap:6px;padding:14px 18px 0;position:sticky;top:0;z-index:5;background:var(--bg);flex-wrap:wrap}.tab{flex:1;min-width:0;text-align:center;padding:11px 4px;font-weight:700;font-size:12.5px;color:var(--text-dim);background:var(--panel);border:1px solid var(--hair);border-radius:10px;cursor:pointer;user-select:none}.tab.active{color:var(--bg-2);background:var(--gold);border-color:var(--gold)}main{padding:16px 18px 0}.view{display:none}.view.active{display:block}.loading,.empty{text-align:center;padding:40px 20px;color:var(--text-faint);font-size:12.5px}.error{color:var(--red);text-align:center;padding:20px}.panel{background:var(--panel);border:1px solid var(--hair);border-radius:var(--radius);padding:16px;margin-bottom:14px}.panel h3{margin:0 0 4px;font-size:15px;font-weight:800}.hint{margin:0 0 12px;font-size:12.5px;color:var(--text-faint)}
+.week-nav{display:flex;align-items:center;gap:10px;margin-bottom:14px}.wk-btn{width:44px;height:40px;border-radius:10px;border:1px solid var(--hair);background:var(--panel);color:var(--gold);font-size:20px;font-weight:900;cursor:pointer}.week-title{flex:1;text-align:center;border:1px solid var(--hair);background:var(--panel);border-radius:12px;padding:9px 10px;cursor:pointer}.week-title .top{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--text-faint);font-weight:800}.week-title .big{font-size:20px;color:var(--gold);font-weight:900}.story-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.story-stat{background:var(--panel-2);border:1px solid var(--hair);border-radius:10px;padding:10px;text-align:center}.story-stat .v{font-size:19px;font-weight:900;color:var(--gold)}.story-stat .l{font-size:9.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--text-faint);font-weight:800;margin-top:2px}.story-list{margin:12px 0 0;padding:0;list-style:none}.story-list li{padding:8px 0;border-top:1px solid var(--hair);font-size:12.5px;color:var(--text-dim)}.story-list strong{color:var(--text)}
+.grid-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid rgba(255,255,255,.14);border-radius:12px}table.grid{border-collapse:separate;border-spacing:0;width:max-content}table.grid thead th{position:sticky;top:0;z-index:3;background:var(--panel-2);font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--gold);padding:11px 6px;text-align:center;border-bottom:2px solid rgba(242,194,48,.45);font-weight:800;min-width:62px;cursor:pointer}table.grid th.corner{position:sticky;left:0;top:0;z-index:5;background:var(--panel-2);text-align:left;padding:11px 10px;border-right:1px solid rgba(255,255,255,.14);min-width:134px;color:var(--text)}table.grid td.name-cell{position:sticky;left:0;z-index:2;background:var(--panel);border-right:1px solid rgba(255,255,255,.14);padding:8px 10px;text-align:left;min-width:134px;max-width:134px;cursor:pointer}table.grid tr.dead td.name-cell{background:var(--bg-2)}.name-inner{display:flex;align-items:center;gap:7px;min-width:0}.team-dot{width:10px;height:10px;border-radius:3px;flex:none;background:var(--tc,var(--text-faint));box-shadow:0 0 0 1px var(--tc2,transparent)}.name-text{flex:1;min-width:0;font-weight:700;font-size:11.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}tr.dead .name-text{color:var(--text-faint);text-decoration:line-through;text-decoration-color:var(--red)}table.grid tbody td{padding:8px 5px;text-align:center;font-size:11.5px;font-weight:800;border-bottom:1px solid rgba(255,255,255,.08);border-right:1px solid rgba(255,255,255,.06);white-space:nowrap;color:var(--text-dim);cursor:pointer}td.pick.win{color:var(--green)}td.pick.strike{background:rgba(242,194,48,.1);color:var(--gold)}td.pick.loss{background:rgba(226,104,92,.18);color:#F7C9C3;text-decoration:line-through}td.pick.future{color:var(--text-faint);font-weight:500}td.pick.dead-week{background:repeating-linear-gradient(135deg,rgba(255,255,255,.03) 0 6px,rgba(255,255,255,.06) 6px 12px);color:var(--text-faint);font-weight:400}
+.player-grid{display:grid;grid-template-columns:1fr;gap:8px}.card{position:relative;display:flex;align-items:center;gap:12px;padding:13px 14px;background:var(--panel);border:1px solid var(--hair);border-radius:var(--radius);cursor:pointer}.card.alive{border-color:rgba(242,194,48,.35)}.card .avatar{flex:none;width:14px;height:14px;border-radius:50%;background:var(--tc,var(--text-faint));box-shadow:0 0 0 1px var(--tc2,transparent)}.card .info{flex:1;min-width:0}.card .name{font-weight:800;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.card.dead .name{color:var(--text-dim)}.card .sub{font-size:11.5px;color:var(--text-faint);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.badge{flex:none;font-size:10.5px;font-weight:800;letter-spacing:.05em;padding:4px 9px;border-radius:999px}.badge.alive{background:rgba(242,194,48,.14);color:var(--gold);border:1px solid rgba(242,194,48,.4)}.badge.dead{background:rgba(226,104,92,.1);color:var(--red);border:1px solid rgba(226,104,92,.3)}.chev{color:var(--text-faint);font-size:16px;flex:none}.week-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.week-card{background:var(--panel);border:1px solid var(--hair);border-radius:var(--radius);padding:13px;cursor:pointer}.week-card.active{border-color:var(--gold);box-shadow:0 0 0 1px rgba(242,194,48,.25)}.week-card .w{color:var(--gold);font-weight:900;font-size:18px}.week-card .m{font-size:11px;color:var(--text-faint);font-weight:800;text-transform:uppercase;letter-spacing:.04em;margin-top:4px}
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:20;opacity:0;pointer-events:none;transition:opacity .25s ease}.overlay.open{opacity:1;pointer-events:auto}.sheet{position:fixed;left:0;right:0;bottom:0;max-width:760px;margin:0 auto;max-height:94vh;max-height:94dvh;background:var(--bg-2);border-top:1px solid var(--hair);border-radius:20px 20px 0 0;transform:translateY(100%);transition:transform .3s cubic-bezier(.4,0,.2,1);z-index:21;display:flex;flex-direction:column;overflow:hidden}.sheet.open{transform:translateY(0)}.sheet-top{flex:none;position:relative;background:var(--bg-2)}.sheet-scroll{flex:1 1 auto;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;padding-bottom:24px}.sheet-handle{width:36px;height:4px;border-radius:99px;background:var(--hair);margin:10px auto 4px}.sheet-head{padding:14px 20px 16px;border-bottom:1px solid var(--hair)}.sheet-head .name{font-size:26px;text-transform:uppercase;font-weight:900}.close-btn{position:absolute;top:12px;right:14px;width:30px;height:30px;border-radius:50%;background:var(--panel);border:1px solid var(--hair);color:var(--text-dim);display:flex;align-items:center;justify-content:center;font-size:16px;cursor:pointer;z-index:2}.stat-row{display:flex;gap:8px;padding:14px 20px 4px;flex-wrap:wrap}.stat{flex:1;min-width:88px;background:var(--panel);border:1px solid var(--hair);border-radius:10px;padding:9px 10px;text-align:center}.stat .v{font-size:16px;font-weight:900;color:var(--gold)}.stat .v.out-status{color:var(--red)}.stat .l{font-size:9.5px;letter-spacing:.06em;color:var(--text-faint);text-transform:uppercase;margin-top:2px}.section{padding:16px 20px 4px}.section h3{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-faint);margin:0 0 10px;font-weight:800}.row{display:flex;align-items:center;gap:10px;padding:9px 0;border-bottom:1px solid var(--hair);font-size:13.5px}.row:last-child{border-bottom:none}.row-main{flex:1;min-width:0}.row-title{font-weight:800;color:var(--text)}.row-sub{font-size:11.5px;color:var(--text-faint);margin-top:2px}.result-icon{flex:none;width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900}.result-icon.win{background:rgba(95,190,140,.14);color:var(--green)}.result-icon.strike{background:rgba(242,194,48,.14);color:var(--gold)}.result-icon.loss{background:rgba(226,104,92,.14);color:var(--red)}.out-banner,.alive-banner{margin:14px 20px 0;padding:11px 14px;border-radius:10px;font-size:12px;text-align:center;font-weight:800}.out-banner{background:var(--red-dim);border:1px solid rgba(226,104,92,.4);color:#f0a29c}.alive-banner{background:var(--gold-dim);border:1px solid rgba(242,194,48,.4);color:var(--gold)}
+@media(min-width:680px){.player-grid{grid-template-columns:1fr 1fr}.week-cards{grid-template-columns:repeat(5,1fr)}}
+</style>
 </head>
 <body>
-  <header>
-    <h1>SEC Basketball Survivor 2026</h1>
-    <div class="sub">2025-26 conference season retrospective time machine</div>
-  </header>
-
-  <main class="wrap">
-    <div class="controls">
-      <button id="prev">◀ Previous Week</button>
-      <div class="week-title" id="weekTitle">Week 1</div>
-      <button id="next">Next Week ▶</button>
-    </div>
-
-    <section class="card kpis" id="kpis"></section>
-
-    <div class="grid">
-      <section class="card story" id="story"></section>
-      <section class="card" id="mostPicked"></section>
-    </div>
-
-    <section class="card" style="margin-top:12px;">
-      <h2>Standings</h2>
-      <div id="standings"></div>
-    </section>
-  </main>
-
-  <script src="engine.js"></script>
-  <script>
-    let currentWeek = 1;
-    let data = {};
-
-    async function loadData() {
-      const [players, picks, schedule, results, weeks] = await Promise.all([
-        fetch('data/players.json').then(r=>r.json()),
-        fetch('data/picks.json').then(r=>r.json()),
-        fetch('data/schedule.json').then(r=>r.json()),
-        fetch('data/results.json').then(r=>r.json()),
-        fetch('data/weeks.json').then(r=>r.json())
-      ]);
-      data = { players, picks, schedule, results, weeks };
-      render();
-    }
-
-    function render() {
-      const maxWeek = data.weeks.length;
-      currentWeek = Math.max(1, Math.min(maxWeek, currentWeek));
-      document.getElementById('weekTitle').textContent = `Week ${currentWeek}`;
-      document.getElementById('prev').disabled = currentWeek === 1;
-      document.getElementById('next').disabled = currentWeek === maxWeek;
-
-      const sim = simulateThroughWeek({ ...data, throughWeek: currentWeek });
-      const story = sim.weeklyStories[sim.weeklyStories.length - 1];
-      const alive = sim.players.filter(p => p.alive).length;
-      const out = sim.players.length - alive;
-      const strikes = sim.players.reduce((sum,p)=>sum+p.strikes,0);
-
-      document.getElementById('kpis').innerHTML = `
-        <div class="kpi"><b>${alive}</b><span>Alive</span></div>
-        <div class="kpi"><b>${out}</b><span>Out</span></div>
-        <div class="kpi"><b>${strikes}</b><span>Total Strikes</span></div>`;
-
-      const namePills = arr => arr.length
-        ? `<div class="name-list">${arr.map(n=>`<span class="pill">${n}</span>`).join('')}</div>`
-        : '<div class="tiny">None</div>';
-
-      document.getElementById('story').innerHTML = `
-        <h2>Weekly Story</h2>
-        <p><b>Week ${currentWeek}</b> began with ${story.aliveStart} alive and ended with ${story.aliveEnd} alive.</p>
-        <ul>
-          <li><b>${story.newStrikes.length}</b> player(s) picked up a strike.${namePills(story.newStrikes)}</li>
-          <li><b>${story.eliminated.length}</b> player(s) were eliminated.${namePills(story.eliminated)}</li>
-        </ul>`;
-
-      document.getElementById('mostPicked').innerHTML = `
-        <h2>Most Picked</h2>
-        ${story.mostPicked.length ? story.mostPicked.map(x=>`<span class="pill">${x.team}: ${x.count}</span>`).join('') : '<p class="muted">No picks yet.</p>'}`;
-
-      const rows = sim.players
-        .sort((a,b)=> Number(b.alive)-Number(a.alive) || a.strikes-b.strikes || a.name.localeCompare(b.name))
-        .map(p => {
-          const h = p.history[p.history.length-1] || {};
-          const status = p.alive ? (p.strikes ? `${p.strikes} strike${p.strikes===1?'':'s'}` : 'Safe') : `Out${p.eliminatedWeek ? ` W${p.eliminatedWeek}` : ''}`;
-          return `<tr>
-            <td><b>${p.name}</b></td>
-            <td class="${p.alive ? (p.strikes ? 'strike':'safe') : 'out'}">${status}</td>
-            <td>${h.pick || '<span class="muted">—</span>'}</td>
-            <td class="${h.outcome || ''}">${h.outcome || ''}</td>
-            <td>${p.usedTeams.map(t=>`<span class="pill">${t}</span>`).join('')}</td>
-          </tr>`;
-        }).join('');
-      document.getElementById('standings').innerHTML = `<table><thead><tr><th>Player</th><th>Status</th><th>This Week</th><th>Outcome</th><th>Used Teams</th></tr></thead><tbody>${rows}</tbody></table>`;
-    }
-
-    document.getElementById('prev').addEventListener('click', () => { currentWeek--; render(); });
-    document.getElementById('next').addEventListener('click', () => { currentWeek++; render(); });
-    loadData();
-  </script>
+<div class="wrap">
+<header><div class="h-title">SEC SURVIVOR<small>BASKETBALL — 2026</small></div><div><div class="h-tally"><span class="num" id="aliveCount">–</span><span class="of" id="totalCount">/ –</span></div><div class="h-tally-label">Still Standing</div></div></header>
+<div class="tabs"><div class="tab active" data-tab="grid">Picks Grid</div><div class="tab" data-tab="players">Players</div><div class="tab" data-tab="weeks">Weeks</div><div class="tab" data-tab="rules">Rules</div></div>
+<main><div id="loadingMsg" class="loading">Loading the pool…</div><div id="errorMsg" class="error" style="display:none"></div><div class="view active" id="view-grid"></div><div class="view" id="view-players"></div><div class="view" id="view-weeks"></div><div class="view" id="view-rules"><div class="panel"><h3>SEC Survivor - Basketball</h3><p class="hint">Conference games only. Each week, pick one SEC team and ride with that team for both games.</p><ul style="margin:16px 0;padding-left:18px;font-size:14px;line-height:1.6"><li>2-0: safe</li><li>1-1: safe, but one strike</li><li>0-2: eliminated immediately</li><li>Three strikes also eliminates you</li><li>Teams may not be reused</li><li>Teams with only one game in a normal week are not eligible</li><li>Week 1 is opening Saturday only; everyone receives a ghost midweek win, so nobody can be eliminated</li></ul></div></div></main>
+</div>
+<div class="overlay" id="overlay"></div><div class="sheet" id="sheet"><div class="sheet-top"><div class="close-btn" id="closeSheet">✕</div><div class="sheet-handle"></div></div><div class="sheet-scroll" id="sheetScroll"><div id="sheetContent"></div></div></div>
+<script>
+const TEAM_COLORS={'Alabama':'#9E1B32','Arkansas':'#9D2235','Auburn':'#0C2340','Florida':'#0021A5','Georgia':'#BA0C2F','Kentucky':'#0033A0','LSU':'#461D7C','Mississippi State':'#660000','Missouri':'#000000','Oklahoma':'#841617','Ole Miss':'#14213D','South Carolina':'#73000A','Tennessee':'#FF8200','Texas':'#BF5700','Texas A&M':'#500000','Vanderbilt':'#866D4B'};
+const TEAM_SECONDARY={'Alabama':'#FFFFFF','Arkansas':'#FFFFFF','Auburn':'#E87722','Florida':'#FA4616','Georgia':'#000000','Kentucky':'#FFFFFF','LSU':'#FDD023','Mississippi State':'#FFFFFF','Missouri':'#F1B82D','Oklahoma':'#FDF9D8','Ole Miss':'#CE1126','South Carolina':'#000000','Tennessee':'#FFFFFF','Texas':'#FFFFFF','Texas A&M':'#FFFFFF','Vanderbilt':'#000000'};
+const TEAM_ABBR={'Alabama':'ALA','Arkansas':'ARK','Auburn':'AUB','Florida':'UF','Georgia':'UGA','Kentucky':'UK','LSU':'LSU','Mississippi State':'MSU','Missouri':'MIZ','Oklahoma':'OU','Ole Miss':'MISS','South Carolina':'USC','Tennessee':'TENN','Texas':'TEX','Texas A&M':'A&M','Vanderbilt':'VU'};
+const TEAM_DISPLAY={'Mississippi State':'Miss. State','South Carolina':'S. Carolina'};
+function teamColor(t){return TEAM_COLORS[t]||'#5d636e'}function teamSecondary(t){return TEAM_SECONDARY[t]||'#F5F7FB'}function teamAbbr(t){return TEAM_ABBR[t]||(t||'').slice(0,4).toUpperCase()}function teamDisplay(t){return TEAM_DISPLAY[t]||t}
+let TEAMS=[],WEEKS=[],SCHEDULE=[],RESULTS=[],PLAYERS=[],PICKS=[],PLAYER_STATES=[],WEEK_STATES=[],CURRENT_WEEK=10;
+async function loadJSON(path){const r=await fetch(path);if(!r.ok)throw new Error('Could not load '+path);return r.json()}
+async function loadAll(){[TEAMS,WEEKS,SCHEDULE,RESULTS,PLAYERS,PICKS]=await Promise.all(['data/teams.json','data/weeks.json','data/schedule.json','data/results.json','data/players.json','data/picks.json'].map(loadJSON));CURRENT_WEEK=WEEKS.length;simulateTo(CURRENT_WEEK)}
+function norm(s){return (s||'').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,' ').trim()}
+function resultForGame(team,game){const r=RESULTS.find(x=>x.date===game.date&&((norm(x.home)===norm(team)&&norm(x.away)===norm(game.opponent))||(norm(x.away)===norm(team)&&norm(x.home)===norm(game.opponent))));if(!r)return null;return r.winner===team?'W':'L'}
+function scheduleFor(team,week){return SCHEDULE.find(x=>x.team===team&&x.week===week)}
+function pickFor(player,week){return PICKS.find(p=>p.player===player&&p.week===week)?.team||null}
+function weekOutcome(team,week){const row=scheduleFor(team,week);if(!row)return {wins:0,losses:0,result:'invalid',games:[]};let wins=0,losses=0;const games=(row.games||[]).map(g=>{const r=resultForGame(team,g);if(r==='W')wins++;if(r==='L')losses++;return {...g,result:r}});if(week===1){return {wins:wins+1,losses,result:losses?'strike':'safe',games,ghost:true}}if(losses===0&&wins>=2)return {wins,losses,result:'safe',games};if(wins===0&&losses>=2)return {wins,losses,result:'eliminated',games};return {wins,losses,result:'strike',games}}
+function simulateTo(maxWeek){const states=PLAYERS.map(p=>({id:p.id,name:p.name,alive:true,strikes:0,eliminatedWeek:null,used:[],weeks:[]}));WEEK_STATES=[];for(let w=1;w<=WEEKS.length;w++){const beforeAlive=states.filter(p=>p.alive).length;const eliminated=[];const strikes=[];const picks=[];for(const p of states){if(!p.alive){p.weeks.push({week:w,pick:null,status:'dead'});continue}const pick=pickFor(p.name,w);if(!pick){p.alive=false;p.eliminatedWeek=w;eliminated.push(p.name);p.weeks.push({week:w,pick:null,status:'eliminated',note:'No pick'});continue}const outcome=weekOutcome(pick,w);p.used.push(pick);let status=outcome.result;if(status==='strike'){p.strikes++;strikes.push(p.name);if(p.strikes>=3){p.alive=false;p.eliminatedWeek=w;status='eliminated-strikes';eliminated.push(p.name)}}else if(status==='eliminated'){p.alive=false;p.eliminatedWeek=w;eliminated.push(p.name)}p.weeks.push({week:w,pick,status,outcome});picks.push({player:p.name,team:pick,status,outcome})}const counts={};picks.forEach(x=>counts[x.team]=(counts[x.team]||0)+1);const mostPicked=Object.entries(counts).sort((a,b)=>b[1]-a[1])[0]||null;WEEK_STATES.push({week:w,beforeAlive,afterAlive:states.filter(p=>p.alive).length,eliminated,strikes,picks,mostPicked});if(w===maxWeek)break}PLAYER_STATES=states}
+function stateAt(week){simulateTo(week);return {players:PLAYER_STATES,weeks:WEEK_STATES,current:WEEK_STATES[week-1]}}
+function setWeek(w){CURRENT_WEEK=Math.max(1,Math.min(WEEKS.length,w));stateAt(CURRENT_WEEK);renderAll()}
+function storyHTML(ws){const strikeOnly=ws.strikes.filter(n=>!ws.eliminated.includes(n));return `<div class="panel"><h3>Week ${ws.week} Story</h3><p class="hint">Viewing the pool as it stood after Week ${ws.week}.</p><div class="story-grid"><div class="story-stat"><div class="v">${ws.afterAlive}</div><div class="l">Alive</div></div><div class="story-stat"><div class="v">${strikeOnly.length}</div><div class="l">New Strikes</div></div><div class="story-stat"><div class="v">${ws.eliminated.length}</div><div class="l">Eliminated</div></div></div><ul class="story-list"><li><strong>Most picked:</strong> ${ws.mostPicked?`${ws.mostPicked[0]} (${ws.mostPicked[1]})`:'None'}</li><li><strong>Eliminated:</strong> ${ws.eliminated.length?ws.eliminated.join(', '):'Nobody'}</li><li><strong>Strike watch:</strong> ${strikeOnly.length?strikeOnly.join(', '):'No new strike-only players'}</li></ul></div>`}
+function weekNavHTML(){const ws=WEEK_STATES[CURRENT_WEEK-1];return `<div class="week-nav"><button class="wk-btn" id="prevWeek">‹</button><div class="week-title" id="weekTitle"><div class="top">Time Machine</div><div class="big">Week ${CURRENT_WEEK}</div></div><button class="wk-btn" id="nextWeek">›</button></div>${storyHTML(ws)}`}
+function renderGrid(){const players=PLAYER_STATES;let head='<th class="corner">Player</th>';for(let w=1;w<=WEEKS.length;w++)head+=`<th data-week="${w}" class="wk-head">Wk ${w}</th>`;let rows=players.map(p=>{let cells='';for(let w=1;w<=WEEKS.length;w++){const rec=p.weeks[w-1];if(w>CURRENT_WEEK){cells+=`<td class="pick future" data-week="${w}">·</td>`;continue}if(!rec||rec.status==='dead'){cells+=`<td class="pick dead-week" data-week="${w}">—</td>`;continue}const pick=rec.pick;if(!pick){cells+=`<td class="pick loss" data-week="${w}">OUT</td>`;continue}let cls=rec.status==='safe'?'win':(rec.status==='strike'?'strike':'loss');let mark=rec.status==='safe'?'✓':(rec.status==='strike'?'!':'✕');cells+=`<td class="pick ${cls}" data-week="${w}" title="${pick}">${teamAbbr(pick)} ${mark}</td>`}return `<tr class="${p.alive?'alive':'dead'}"><td class="name-cell" data-id="${p.id}"><div class="name-inner"><div class="team-dot" style="--tc:${p.weeks[0]?.pick?teamColor(p.weeks[0].pick):'#6C7EAE'};--tc2:${p.weeks[0]?.pick?teamSecondary(p.weeks[0].pick):'transparent'}"></div><div class="name-text">${p.name}</div></div></td>${cells}</tr>`}).join('');document.getElementById('view-grid').innerHTML=weekNavHTML()+`<div class="grid-wrap"><table class="grid"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;wireCommon()}
+function renderPlayers(){const sorted=[...PLAYER_STATES].sort((a,b)=>(a.alive===b.alive? a.name.localeCompare(b.name):(a.alive?-1:1)));document.getElementById('view-players').innerHTML=weekNavHTML()+`<div class="player-grid">${sorted.map(p=>{const last=[...p.weeks].reverse().find(x=>x&&x.pick);const sub=p.alive?`${p.strikes} strike${p.strikes===1?'':'s'} · Last pick: ${last?last.pick:'—'}`:`Out — Week ${p.eliminatedWeek}`;return `<div class="card ${p.alive?'alive':'dead'}" data-id="${p.id}" style="--tc:${last?.pick?teamColor(last.pick):'#6C7EAE'};--tc2:${last?.pick?teamSecondary(last.pick):'transparent'}"><div class="avatar"></div><div class="info"><div class="name">${p.name}</div><div class="sub">${sub}</div></div><div class="badge ${p.alive?'alive':'dead'}">${p.alive?'ALIVE':'OUT'}</div><div class="chev">›</div></div>`}).join('')}</div>`;wireCommon()}
+function renderWeeks(){document.getElementById('view-weeks').innerHTML=weekNavHTML()+`<div class="week-cards">${WEEK_STATES.map(ws=>`<div class="week-card ${ws.week===CURRENT_WEEK?'active':''}" data-week="${ws.week}"><div class="w">Week ${ws.week}</div><div class="m">${ws.afterAlive} alive · ${ws.eliminated.length} out</div></div>`).join('')}</div>`;wireCommon()}
+function wireCommon(){document.getElementById('prevWeek')?.addEventListener('click',()=>setWeek(CURRENT_WEEK-1));document.getElementById('nextWeek')?.addEventListener('click',()=>setWeek(CURRENT_WEEK+1));document.getElementById('weekTitle')?.addEventListener('click',()=>openWeekSheet(CURRENT_WEEK));document.querySelectorAll('[data-id]').forEach(el=>el.addEventListener('click',()=>openPlayerSheet(el.dataset.id)));document.querySelectorAll('[data-week]').forEach(el=>el.addEventListener('click',e=>{if(!el.classList.contains('name-cell'))openWeekSheet(Number(el.dataset.week))}))}
+function renderAll(){document.getElementById('aliveCount').textContent=PLAYER_STATES.filter(p=>p.alive).length;document.getElementById('totalCount').textContent='/ '+PLAYER_STATES.length;renderGrid();renderPlayers();renderWeeks()}
+function openPlayerSheet(id){const p=PLAYER_STATES.find(x=>x.id===id);if(!p)return;const timeline=p.weeks.map(w=>{if(!w||w.status==='dead')return '';const cls=w.status==='safe'?'win':(w.status==='strike'?'strike':'loss');const icon=w.status==='safe'?'✓':(w.status==='strike'?'!':'✕');const games=w.outcome?.games?.map(g=>`${g.location==='away'?'@':'vs'} ${g.opponent}: ${g.result||'?'}`).join(' · ')||w.note||'';return `<div class="row"><div class="team-dot" style="--tc:${w.pick?teamColor(w.pick):'#6C7EAE'};--tc2:${w.pick?teamSecondary(w.pick):'transparent'}"></div><div class="row-main"><div class="row-title">Week ${w.week}: ${w.pick||'No pick'}</div><div class="row-sub">${games}</div></div><div class="result-icon ${cls}">${icon}</div></div>`}).join('');document.getElementById('sheetContent').innerHTML=`<div class="sheet-head"><div class="name">${p.name}</div></div><div class="stat-row"><div class="stat"><div class="v ${p.alive?'':'out-status'}">${p.alive?'ALIVE':'OUT'}</div><div class="l">Status</div></div><div class="stat"><div class="v">${p.strikes}</div><div class="l">Strikes</div></div><div class="stat"><div class="v">${p.used.length}</div><div class="l">Teams Used</div></div></div>${p.alive?'<div class="alive-banner">Still standing after Week '+CURRENT_WEEK+'</div>':'<div class="out-banner">ELIMINATED — WEEK '+p.eliminatedWeek+'</div>'}<div class="section"><h3>Timeline</h3>${timeline}</div>`;showSheet()}
+function openWeekSheet(week){const ws=stateAt(week).current;const counts={};ws.picks.forEach(p=>{counts[p.team]=counts[p.team]||{count:0,players:[],status:p.status};counts[p.team].count++;counts[p.team].players.push(p.player)});const picks=Object.entries(counts).sort((a,b)=>b[1].count-a[1].count).map(([team,info])=>`<div class="row"><div class="team-dot" style="--tc:${teamColor(team)};--tc2:${teamSecondary(team)}"></div><div class="row-main"><div class="row-title">${team} · ${info.count} pick${info.count===1?'':'s'}</div><div class="row-sub">${info.players.join(', ')}</div></div></div>`).join('')||'<div class="empty">No picks.</div>';const sched=SCHEDULE.filter(s=>s.week===week).map(s=>`<div class="row"><div class="team-dot" style="--tc:${teamColor(s.team)};--tc2:${teamSecondary(s.team)}"></div><div class="row-main"><div class="row-title">${s.team}${s.eligible?'':' · Not eligible'}</div><div class="row-sub">${s.games.map(g=>`${g.location==='away'?'@':'vs'} ${g.opponent}`).join(' · ')}</div></div></div>`).join('');document.getElementById('sheetContent').innerHTML=`<div class="sheet-head"><div class="name">Week ${week}</div></div><div style="padding:16px 20px 0">${storyHTML(ws)}</div><div class="section"><h3>Picks This Week</h3>${picks}</div><div class="section"><h3>Schedule</h3>${sched}</div>`;showSheet();renderAll()}
+function showSheet(){document.getElementById('sheetScroll').scrollTop=0;document.getElementById('overlay').classList.add('open');document.getElementById('sheet').classList.add('open');document.documentElement.classList.add('lock-scroll');document.body.classList.add('lock-scroll')}function closeSheet(){document.getElementById('overlay').classList.remove('open');document.getElementById('sheet').classList.remove('open');document.documentElement.classList.remove('lock-scroll');document.body.classList.remove('lock-scroll')}document.getElementById('overlay').addEventListener('click',closeSheet);document.getElementById('closeSheet').addEventListener('click',closeSheet);
+document.querySelectorAll('.tab').forEach(tab=>tab.addEventListener('click',()=>{document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));tab.classList.add('active');document.getElementById('view-'+tab.dataset.tab).classList.add('active')}));
+(async function init(){try{await loadAll();document.getElementById('loadingMsg').style.display='none';renderAll()}catch(err){console.error(err);document.getElementById('loadingMsg').style.display='none';const el=document.getElementById('errorMsg');el.style.display='block';el.textContent='Could not load the pool: '+(err.message||err)}})();
+</script>
 </body>
 </html>
