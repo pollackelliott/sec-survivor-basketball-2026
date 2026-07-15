@@ -1,1 +1,1298 @@
-[]
+[
+  {
+    "date": "2026-01-03",
+    "home": "Alabama",
+    "away": "Kentucky",
+    "homeScore": 89,
+    "awayScore": 74,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-03",
+    "home": "Georgia",
+    "away": "Auburn",
+    "homeScore": 104,
+    "awayScore": 100,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-03",
+    "home": "South Carolina",
+    "away": "Vanderbilt",
+    "homeScore": 71,
+    "awayScore": 83,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-03",
+    "home": "Arkansas",
+    "away": "Tennessee",
+    "homeScore": 86,
+    "awayScore": 75,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-03",
+    "home": "Oklahoma",
+    "away": "Ole Miss",
+    "homeScore": 86,
+    "awayScore": 70,
+    "winner": "Oklahoma",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-03",
+    "home": "Texas A&M",
+    "away": "LSU",
+    "homeScore": 75,
+    "awayScore": 72,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-03",
+    "home": "Texas",
+    "away": "Mississippi State",
+    "homeScore": 98,
+    "awayScore": 101,
+    "winner": "Mississippi State",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-03",
+    "home": "Missouri",
+    "away": "Florida",
+    "homeScore": 76,
+    "awayScore": 74,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-06",
+    "home": "Florida",
+    "away": "Georgia",
+    "homeScore": 92,
+    "awayScore": 77,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-06",
+    "home": "LSU",
+    "away": "South Carolina",
+    "homeScore": 68,
+    "awayScore": 78,
+    "winner": "South Carolina",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-06",
+    "home": "Auburn",
+    "away": "Texas A&M",
+    "homeScore": 88,
+    "awayScore": 90,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-06",
+    "home": "Tennessee",
+    "away": "Texas",
+    "homeScore": 85,
+    "awayScore": 71,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-07",
+    "home": "Kentucky",
+    "away": "Missouri",
+    "homeScore": 68,
+    "awayScore": 73,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-07",
+    "home": "Mississippi State",
+    "away": "Oklahoma",
+    "homeScore": 72,
+    "awayScore": 53,
+    "winner": "Mississippi State",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-07",
+    "home": "Ole Miss",
+    "away": "Arkansas",
+    "homeScore": 87,
+    "awayScore": 94,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-07",
+    "home": "Vanderbilt",
+    "away": "Alabama",
+    "homeScore": 96,
+    "awayScore": 90,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "Florida",
+    "away": "Tennessee",
+    "homeScore": 91,
+    "awayScore": 67,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "Vanderbilt",
+    "away": "LSU",
+    "homeScore": 84,
+    "awayScore": 73,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "South Carolina",
+    "away": "Georgia",
+    "homeScore": 70,
+    "awayScore": 75,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "Texas A&M",
+    "away": "Oklahoma",
+    "homeScore": 83,
+    "awayScore": 76,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "Auburn",
+    "away": "Arkansas",
+    "homeScore": 95,
+    "awayScore": 73,
+    "winner": "Auburn",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "Ole Miss",
+    "away": "Missouri",
+    "homeScore": 76,
+    "awayScore": 69,
+    "winner": "Ole Miss",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "Alabama",
+    "away": "Texas",
+    "homeScore": 88,
+    "awayScore": 92,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-10",
+    "home": "Kentucky",
+    "away": "Mississippi State",
+    "homeScore": 92,
+    "awayScore": 68,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-13",
+    "home": "Tennessee",
+    "away": "Texas A&M",
+    "homeScore": 87,
+    "awayScore": 82,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-13",
+    "home": "Mississippi State",
+    "away": "Alabama",
+    "homeScore": 82,
+    "awayScore": 97,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-13",
+    "home": "Oklahoma",
+    "away": "Florida",
+    "homeScore": 79,
+    "awayScore": 96,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-14",
+    "home": "Georgia",
+    "away": "Ole Miss",
+    "homeScore": 95,
+    "awayScore": 97,
+    "winner": "Ole Miss",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-14",
+    "home": "LSU",
+    "away": "Kentucky",
+    "homeScore": 74,
+    "awayScore": 75,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-14",
+    "home": "Missouri",
+    "away": "Auburn",
+    "homeScore": 84,
+    "awayScore": 74,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-14",
+    "home": "Arkansas",
+    "away": "South Carolina",
+    "homeScore": 108,
+    "awayScore": 74,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-14",
+    "home": "Texas",
+    "away": "Vanderbilt",
+    "homeScore": 80,
+    "awayScore": 64,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "Tennessee",
+    "away": "Kentucky",
+    "homeScore": 78,
+    "awayScore": 80,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "Oklahoma",
+    "away": "Alabama",
+    "homeScore": 81,
+    "awayScore": 83,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "Vanderbilt",
+    "away": "Florida",
+    "homeScore": 94,
+    "awayScore": 98,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "LSU",
+    "away": "Missouri",
+    "homeScore": 78,
+    "awayScore": 70,
+    "winner": "LSU",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "Georgia",
+    "away": "Arkansas",
+    "homeScore": 90,
+    "awayScore": 76,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "Auburn",
+    "away": "South Carolina",
+    "homeScore": 71,
+    "awayScore": 67,
+    "winner": "Auburn",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "Texas",
+    "away": "Texas A&M",
+    "homeScore": 70,
+    "awayScore": 74,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-17",
+    "home": "Mississippi State",
+    "away": "Ole Miss",
+    "homeScore": 67,
+    "awayScore": 68,
+    "winner": "Ole Miss",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-20",
+    "home": "Florida",
+    "away": "LSU",
+    "homeScore": 79,
+    "awayScore": 61,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-20",
+    "home": "South Carolina",
+    "away": "Oklahoma",
+    "homeScore": 85,
+    "awayScore": 76,
+    "winner": "South Carolina",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-20",
+    "home": "Arkansas",
+    "away": "Vanderbilt",
+    "homeScore": 93,
+    "awayScore": 68,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-20",
+    "home": "Missouri",
+    "away": "Georgia",
+    "homeScore": 72,
+    "awayScore": 74,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-20",
+    "home": "Ole Miss",
+    "away": "Auburn",
+    "homeScore": 66,
+    "awayScore": 78,
+    "winner": "Auburn",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-21",
+    "home": "Kentucky",
+    "away": "Texas",
+    "homeScore": 85,
+    "awayScore": 80,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-21",
+    "home": "Texas A&M",
+    "away": "Mississippi State",
+    "homeScore": 88,
+    "awayScore": 68,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Kentucky",
+    "away": "Ole Miss",
+    "homeScore": 72,
+    "awayScore": 63,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Texas",
+    "away": "Georgia",
+    "homeScore": 87,
+    "awayScore": 67,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Missouri",
+    "away": "Oklahoma",
+    "homeScore": 88,
+    "awayScore": 87,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Texas A&M",
+    "away": "South Carolina",
+    "homeScore": 92,
+    "awayScore": 69,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Florida",
+    "away": "Auburn",
+    "homeScore": 67,
+    "awayScore": 76,
+    "winner": "Auburn",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Mississippi State",
+    "away": "Vanderbilt",
+    "homeScore": 56,
+    "awayScore": 88,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Alabama",
+    "away": "Tennessee",
+    "homeScore": 73,
+    "awayScore": 79,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-24",
+    "home": "Arkansas",
+    "away": "LSU",
+    "homeScore": 85,
+    "awayScore": 81,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-27",
+    "home": "Oklahoma",
+    "away": "Arkansas",
+    "homeScore": 79,
+    "awayScore": 83,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-27",
+    "home": "Alabama",
+    "away": "Missouri",
+    "homeScore": 90,
+    "awayScore": 64,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-27",
+    "home": "Vanderbilt",
+    "away": "Kentucky",
+    "homeScore": 80,
+    "awayScore": 55,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-28",
+    "home": "Auburn",
+    "away": "Texas",
+    "homeScore": 88,
+    "awayScore": 82,
+    "winner": "Auburn",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-28",
+    "home": "Georgia",
+    "away": "Tennessee",
+    "homeScore": 85,
+    "awayScore": 86,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-28",
+    "home": "LSU",
+    "away": "Mississippi State",
+    "homeScore": 66,
+    "awayScore": 80,
+    "winner": "Mississippi State",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-28",
+    "home": "South Carolina",
+    "away": "Florida",
+    "homeScore": 48,
+    "awayScore": 95,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-31",
+    "home": "Georgia",
+    "away": "Texas A&M",
+    "homeScore": 77,
+    "awayScore": 92,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-31",
+    "home": "Oklahoma",
+    "away": "Texas",
+    "homeScore": 69,
+    "awayScore": 79,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-31",
+    "home": "Missouri",
+    "away": "Mississippi State",
+    "homeScore": 84,
+    "awayScore": 79,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-31",
+    "home": "South Carolina",
+    "away": "LSU",
+    "homeScore": 87,
+    "awayScore": 92,
+    "winner": "LSU",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-31",
+    "home": "Vanderbilt",
+    "away": "Ole Miss",
+    "homeScore": 71,
+    "awayScore": 68,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-31",
+    "home": "Arkansas",
+    "away": "Kentucky",
+    "homeScore": 77,
+    "awayScore": 85,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-01-31",
+    "home": "Tennessee",
+    "away": "Auburn",
+    "homeScore": 77,
+    "awayScore": 69,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-01",
+    "home": "Florida",
+    "away": "Alabama",
+    "homeScore": 100,
+    "awayScore": 77,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-03",
+    "home": "Tennessee",
+    "away": "Ole Miss",
+    "homeScore": 84,
+    "awayScore": 66,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-03",
+    "home": "Texas",
+    "away": "South Carolina",
+    "homeScore": 84,
+    "awayScore": 75,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-04",
+    "home": "Alabama",
+    "away": "Texas A&M",
+    "homeScore": 100,
+    "awayScore": 97,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-04",
+    "home": "Kentucky",
+    "away": "Oklahoma",
+    "homeScore": 94,
+    "awayScore": 78,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "Mississippi State",
+    "away": "Arkansas",
+    "homeScore": 68,
+    "awayScore": 88,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "South Carolina",
+    "away": "Missouri",
+    "homeScore": 59,
+    "awayScore": 78,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "Texas",
+    "away": "Ole Miss",
+    "homeScore": 79,
+    "awayScore": 68,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "Vanderbilt",
+    "away": "Oklahoma",
+    "homeScore": 91,
+    "awayScore": 92,
+    "winner": "Oklahoma",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "Auburn",
+    "away": "Alabama",
+    "homeScore": 92,
+    "awayScore": 96,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "LSU",
+    "away": "Georgia",
+    "homeScore": 71,
+    "awayScore": 83,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "Kentucky",
+    "away": "Tennessee",
+    "homeScore": 74,
+    "awayScore": 71,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-07",
+    "home": "Texas A&M",
+    "away": "Florida",
+    "homeScore": 67,
+    "awayScore": 86,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-10",
+    "home": "Auburn",
+    "away": "Vanderbilt",
+    "homeScore": 76,
+    "awayScore": 84,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-10",
+    "home": "LSU",
+    "away": "Arkansas",
+    "homeScore": 62,
+    "awayScore": 91,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-11",
+    "home": "Georgia",
+    "away": "Florida",
+    "homeScore": 66,
+    "awayScore": 86,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-11",
+    "home": "Ole Miss",
+    "away": "Alabama",
+    "homeScore": 74,
+    "awayScore": 93,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-11",
+    "home": "Mississippi State",
+    "away": "Tennessee",
+    "homeScore": 64,
+    "awayScore": 73,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-11",
+    "home": "Texas A&M",
+    "away": "Missouri",
+    "homeScore": 85,
+    "awayScore": 86,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Vanderbilt",
+    "away": "Texas A&M",
+    "homeScore": 82,
+    "awayScore": 69,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Florida",
+    "away": "Kentucky",
+    "homeScore": 92,
+    "awayScore": 83,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Oklahoma",
+    "away": "Georgia",
+    "homeScore": 94,
+    "awayScore": 78,
+    "winner": "Oklahoma",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Tennessee",
+    "away": "LSU",
+    "homeScore": 73,
+    "awayScore": 63,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Ole Miss",
+    "away": "Mississippi State",
+    "homeScore": 78,
+    "awayScore": 90,
+    "winner": "Mississippi State",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Alabama",
+    "away": "South Carolina",
+    "homeScore": 89,
+    "awayScore": 75,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Arkansas",
+    "away": "Auburn",
+    "homeScore": 88,
+    "awayScore": 75,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-14",
+    "home": "Missouri",
+    "away": "Texas",
+    "homeScore": 68,
+    "awayScore": 85,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-17",
+    "home": "Florida",
+    "away": "South Carolina",
+    "homeScore": 76,
+    "awayScore": 62,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-17",
+    "home": "Kentucky",
+    "away": "Georgia",
+    "homeScore": 78,
+    "awayScore": 86,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-17",
+    "home": "Texas",
+    "away": "LSU",
+    "homeScore": 88,
+    "awayScore": 85,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-18",
+    "home": "Alabama",
+    "away": "Arkansas",
+    "homeScore": 117,
+    "awayScore": 115,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-18",
+    "home": "Tennessee",
+    "away": "Oklahoma",
+    "homeScore": 89,
+    "awayScore": 66,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-18",
+    "home": "Texas A&M",
+    "away": "Ole Miss",
+    "homeScore": 80,
+    "awayScore": 77,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-18",
+    "home": "Mississippi State",
+    "away": "Auburn",
+    "homeScore": 91,
+    "awayScore": 85,
+    "winner": "Mississippi State",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-18",
+    "home": "Missouri",
+    "away": "Vanderbilt",
+    "homeScore": 81,
+    "awayScore": 80,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "Ole Miss",
+    "away": "Florida",
+    "homeScore": 75,
+    "awayScore": 94,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "South Carolina",
+    "away": "Mississippi State",
+    "homeScore": 97,
+    "awayScore": 89,
+    "winner": "South Carolina",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "Vanderbilt",
+    "away": "Tennessee",
+    "homeScore": 65,
+    "awayScore": 69,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "Georgia",
+    "away": "Texas",
+    "homeScore": 91,
+    "awayScore": 80,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "Arkansas",
+    "away": "Missouri",
+    "homeScore": 94,
+    "awayScore": 86,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "LSU",
+    "away": "Alabama",
+    "homeScore": 83,
+    "awayScore": 90,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "Auburn",
+    "away": "Kentucky",
+    "homeScore": 75,
+    "awayScore": 74,
+    "winner": "Auburn",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-21",
+    "home": "Oklahoma",
+    "away": "Texas A&M",
+    "homeScore": 71,
+    "awayScore": 75,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-24",
+    "home": "South Carolina",
+    "away": "Kentucky",
+    "homeScore": 63,
+    "awayScore": 72,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-24",
+    "home": "Missouri",
+    "away": "Tennessee",
+    "homeScore": 73,
+    "awayScore": 69,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-24",
+    "home": "Oklahoma",
+    "away": "Auburn",
+    "homeScore": 91,
+    "awayScore": 79,
+    "winner": "Oklahoma",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-25",
+    "home": "Texas",
+    "away": "Florida",
+    "homeScore": 71,
+    "awayScore": 84,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-25",
+    "home": "Vanderbilt",
+    "away": "Georgia",
+    "homeScore": 88,
+    "awayScore": 80,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-25",
+    "home": "Alabama",
+    "away": "Mississippi State",
+    "homeScore": 100,
+    "awayScore": 75,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-25",
+    "home": "Arkansas",
+    "away": "Texas A&M",
+    "homeScore": 99,
+    "awayScore": 84,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-25",
+    "home": "Ole Miss",
+    "away": "LSU",
+    "homeScore": 99,
+    "awayScore": 106,
+    "winner": "LSU",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "Mississippi State",
+    "away": "Missouri",
+    "homeScore": 64,
+    "awayScore": 88,
+    "winner": "Missouri",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "Kentucky",
+    "away": "Vanderbilt",
+    "homeScore": 91,
+    "awayScore": 77,
+    "winner": "Kentucky",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "Georgia",
+    "away": "South Carolina",
+    "homeScore": 87,
+    "awayScore": 68,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "Texas A&M",
+    "away": "Texas",
+    "homeScore": 70,
+    "awayScore": 76,
+    "winner": "Texas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "LSU",
+    "away": "Oklahoma",
+    "homeScore": 67,
+    "awayScore": 83,
+    "winner": "Oklahoma",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "Tennessee",
+    "away": "Alabama",
+    "homeScore": 69,
+    "awayScore": 71,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "Auburn",
+    "away": "Ole Miss",
+    "homeScore": 79,
+    "awayScore": 85,
+    "winner": "Ole Miss",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-02-28",
+    "home": "Florida",
+    "away": "Arkansas",
+    "homeScore": 111,
+    "awayScore": 77,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-03",
+    "home": "South Carolina",
+    "away": "Tennessee",
+    "homeScore": 59,
+    "awayScore": 78,
+    "winner": "Tennessee",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-03",
+    "home": "Georgia",
+    "away": "Alabama",
+    "homeScore": 98,
+    "awayScore": 88,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-03",
+    "home": "Oklahoma",
+    "away": "Missouri",
+    "homeScore": 80,
+    "awayScore": 64,
+    "winner": "Oklahoma",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-03",
+    "home": "Texas A&M",
+    "away": "Kentucky",
+    "homeScore": 96,
+    "awayScore": 85,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-03",
+    "home": "Florida",
+    "away": "Mississippi State",
+    "homeScore": 108,
+    "awayScore": 74,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-03",
+    "home": "Ole Miss",
+    "away": "Vanderbilt",
+    "homeScore": 86,
+    "awayScore": 89,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-03",
+    "home": "Auburn",
+    "away": "LSU",
+    "homeScore": 88,
+    "awayScore": 74,
+    "winner": "Auburn",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-04",
+    "home": "Arkansas",
+    "away": "Texas",
+    "homeScore": 105,
+    "awayScore": 85,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "Missouri",
+    "away": "Arkansas",
+    "homeScore": 84,
+    "awayScore": 88,
+    "winner": "Arkansas",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "Ole Miss",
+    "away": "South Carolina",
+    "homeScore": 61,
+    "awayScore": 64,
+    "winner": "South Carolina",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "Tennessee",
+    "away": "Vanderbilt",
+    "homeScore": 82,
+    "awayScore": 86,
+    "winner": "Vanderbilt",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "Mississippi State",
+    "away": "Georgia",
+    "homeScore": 96,
+    "awayScore": 102,
+    "winner": "Georgia",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "Kentucky",
+    "away": "Florida",
+    "homeScore": 77,
+    "awayScore": 84,
+    "winner": "Florida",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "LSU",
+    "away": "Texas A&M",
+    "homeScore": 91,
+    "awayScore": 94,
+    "winner": "Texas A&M",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "Alabama",
+    "away": "Auburn",
+    "homeScore": 96,
+    "awayScore": 84,
+    "winner": "Alabama",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  },
+  {
+    "date": "2026-03-07",
+    "home": "Texas",
+    "away": "Oklahoma",
+    "homeScore": 85,
+    "awayScore": 88,
+    "winner": "Oklahoma",
+    "source": "https://www.playoffstatus.com/secbasketball/secbasketballschedule.html"
+  }
+]

@@ -2,6 +2,8 @@
   {
     "week": 1,
     "label": "Week 1",
+    "startDate": "2026-01-03",
+    "endDate": "2026-01-03",
     "dates": [
       "2026-01-03"
     ],
@@ -11,8 +13,11 @@
   {
     "week": 2,
     "label": "Week 2",
+    "startDate": "2026-01-06",
+    "endDate": "2026-01-10",
     "dates": [
       "2026-01-06",
+      "2026-01-07",
       "2026-01-10"
     ],
     "isOpeningSaturday": false,
@@ -21,8 +26,11 @@
   {
     "week": 3,
     "label": "Week 3",
+    "startDate": "2026-01-13",
+    "endDate": "2026-01-17",
     "dates": [
       "2026-01-13",
+      "2026-01-14",
       "2026-01-17"
     ],
     "isOpeningSaturday": false,
@@ -31,8 +39,11 @@
   {
     "week": 4,
     "label": "Week 4",
+    "startDate": "2026-01-20",
+    "endDate": "2026-01-24",
     "dates": [
       "2026-01-20",
+      "2026-01-21",
       "2026-01-24"
     ],
     "isOpeningSaturday": false,
@@ -41,9 +52,13 @@
   {
     "week": 5,
     "label": "Week 5",
+    "startDate": "2026-01-27",
+    "endDate": "2026-02-01",
     "dates": [
       "2026-01-27",
-      "2026-01-31"
+      "2026-01-28",
+      "2026-01-31",
+      "2026-02-01"
     ],
     "isOpeningSaturday": false,
     "description": "One midweek game and one weekend game. Teams with only one game are not eligible."
@@ -51,8 +66,11 @@
   {
     "week": 6,
     "label": "Week 6",
+    "startDate": "2026-02-03",
+    "endDate": "2026-02-07",
     "dates": [
       "2026-02-03",
+      "2026-02-04",
       "2026-02-07"
     ],
     "isOpeningSaturday": false,
@@ -61,8 +79,11 @@
   {
     "week": 7,
     "label": "Week 7",
+    "startDate": "2026-02-10",
+    "endDate": "2026-02-14",
     "dates": [
       "2026-02-10",
+      "2026-02-11",
       "2026-02-14"
     ],
     "isOpeningSaturday": false,
@@ -71,8 +92,11 @@
   {
     "week": 8,
     "label": "Week 8",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-21",
     "dates": [
       "2026-02-17",
+      "2026-02-18",
       "2026-02-21"
     ],
     "isOpeningSaturday": false,
@@ -81,8 +105,11 @@
   {
     "week": 9,
     "label": "Week 9",
+    "startDate": "2026-02-24",
+    "endDate": "2026-02-28",
     "dates": [
       "2026-02-24",
+      "2026-02-25",
       "2026-02-28"
     ],
     "isOpeningSaturday": false,
@@ -91,8 +118,11 @@
   {
     "week": 10,
     "label": "Week 10",
+    "startDate": "2026-03-03",
+    "endDate": "2026-03-07",
     "dates": [
       "2026-03-03",
+      "2026-03-04",
       "2026-03-07"
     ],
     "isOpeningSaturday": false,
